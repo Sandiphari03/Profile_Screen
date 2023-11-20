@@ -1,0 +1,10 @@
+.customButton-container{
+  width:75px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border:2px solid grey;
+  border-radius: 10px;
+  margin-left: 10px;
+}

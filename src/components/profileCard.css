@@ -1,0 +1,30 @@
+.profileCard-container{
+  margin-left: 75px;
+}
+
+
+.profile-info{
+  width:fit-content;
+  display: flex;
+  flex-direction: row;
+}
+
+.profile-image{
+  position: relative;
+  background-image: url("https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=600");
+  width:200px;
+  height: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+}
+
+.profile-name{
+  margin-top: 75px;
+  margin-left:30px ;
+}
+
+.link{
+  font-size: 22px;
+  letter-spacing: 2px;
+}

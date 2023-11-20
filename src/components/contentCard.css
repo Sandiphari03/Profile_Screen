@@ -1,0 +1,17 @@
+.contentCard-container{
+  border-top: 1px solid grey;
+}
+
+.text-container{
+  max-width:950px;
+  height: auto;
+  margin-left: 100px;
+}
+
+.text{
+  font-size: 30px;
+  font-weight:500;
+  color: grey;
+  letter-spacing: 2px;
+  line-break: auto;
+}
